@@ -11,9 +11,12 @@ This workshop aims to bring together researchers to discuss initiatives that add
 - Registration and information: [https://www.ecai2024.eu/](https://www.ecai2024.eu/)
 
 ## Important Dates
-- **Submission Deadline**: June 1, 2024
-- **Acceptance Notification**: July 5, 2024
+- **Submission Deadline**: May 15, 2024
+- **Acceptance Notification**: July 1, 2024
 - **Workshop Date**: October 19 or 20, 2024 (TBA)
+
+All deadlines are at the end of the day specified, anywhere on Earth (UTC-12).
+
 
 ## Submission
 - **[Paper submission (TBA)]()**
