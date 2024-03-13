@@ -1,7 +1,11 @@
 ![TAIL Workshop Banner](tail-ws-logo.png)
 
 # Workshop on Trustworthy AI in Law Enforcement (TAIL) 
-# ECAI 2024
+
+## Venue
+- 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE
+- 19-24 OCTOBER 2024
+- Santiago de Compostela
 
 ## Important Dates
 - **Call for Papers**: 00-00, 2024
