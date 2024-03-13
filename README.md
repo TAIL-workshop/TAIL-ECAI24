@@ -57,5 +57,5 @@ We aim at selecting extended and revised versions of accepted papers to appear i
 ## Contact
 
 Please direct any questions regarding the workshop to: 
-- Juan Carlos Nieves, Umeå University, Sweden, jcnieves@cs.umu.se
-- Andreas Brännström, Umeå University, Sweden, andreasb@cs.umu.se
+- Juan Carlos Nieves, Umeå University, Sweden, [jcnieves@cs.umu.se](jcnieves@cs.umu.se)
+- Andreas Brännström, Umeå University, Sweden, [andreasb@cs.umu.se](andreasb@cs.umu.se)
