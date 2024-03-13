@@ -7,7 +7,7 @@
 - **Workshop Date**: 00-00, 2024
 
 ## Submission
-- **[Submit Papers (coming soon)](https://easychair.org/)**
+- **[Submittion of Papers (TBA)](https://easychair.org/)**
 
 Stay tuned for updates on the submission process.
 
