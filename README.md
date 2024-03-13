@@ -12,7 +12,7 @@ Following seminal and recent work in the integration of Artificial Intelligence 
 
 Keywords: Trustworthy AI, Socio-Technical Systems, Law Enforcement, Criminal Investigations.
 
-By considering this background, this workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
+This workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
 
 ## Topics of Interest
 - Predictive Policing
