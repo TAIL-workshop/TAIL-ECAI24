@@ -1,6 +1,7 @@
 ![TAIL Workshop Banner](tail-ws-logo.png)
 
-# Workshop on Trustworthy AI in Law Enforcement (TAIL) – ECAI 2024
+# Workshop on Trustworthy AI in Law Enforcement (TAIL) 
+# ECAI 2024
 
 ## Important Dates
 - **Call for Papers**: 00-00, 2024
