@@ -20,17 +20,17 @@ Keywords: Trustworthy AI, Socio-Technical Systems, Law Enforcement, Criminal Inv
 This workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
 
 ## Topics of Interest
-- Predictive Policing
-- Tactical Decision Support
-- Smart Devices and Internet of Things (IoT) in Law Enforcement
-- Image and Video Analysis in Law Enforcement
-- Cybercrime Understanding and Detection
-- Automated Evidence Analysis
-- Behavioural Analysis
-- Biometric Identification
-- Socio-Technical Aspects of AI Integration in Law Enforcement
-- AI Integrated in Law Enforcement Training and Education
-- Trustworthy AI Assessment Tools
+- **Predictive Policing:** Strategies for proactive crime prediction and prevention in law enforcement, and, e.g., integrating principles for fair and unbiased predictions.
+- **Tactical Decision Support:** Approaches to automated decision-making in critical scenarios for law enforcement and first responders, and, e.g., addressing transparency in AI algorithms.
+- **Smart Devices and Internet of Things (IoT) in Law Enforcement:** Interactions with smart technology, smart sensors, drones, and mixed-reality devices in law enforcement, and, e.g., addressing processing of sensitive and personal data. 
+- **Image and Video Analysis in Law Enforcement:** Integration of AI-driven tools for analysing images and videos in crime scene reconstruction, and e.g., considering the ethical use of data and maintaining privacy standards.
+- **Cybercrime Understanding and Detection:** Methods and applications for detecting and preventing cybercrimes, and, e.g., addressing transparency in AI algorithms.
+- **Automated Evidence Analysis:** Implementation of AI tools for efficient and thorough analysis of digital evidence, and e.g., addressing traceability and fairness in decision-making.
+- **Behavioural Analysis:** Techniques for AI-based behavioural analysis to identify patterns in criminal activities, e.g., by considering ethical aspects such as unbiased profiling.
+- **Biometric Identification:** Utilising AI in biometric identification processes while approaching ethical demands, such as privacy standards and ensuring secure and ethical handling of sensitive information.
+- **Socio-Technical Aspects of AI Integration in Law enforcement:** Exploration of socio-technical perspectives on AI in law enforcement and criminal investigation, considering the ethical implications and societal impacts of AI integration.
+- **AI Integrated in Law Enforcement Training and Education:** Harnessing AI Systems in Police education, AI-powered training simulations, tools and methods.
+- **Trustworthy AI Assessment Tools:** Methods and applications for assessing Trustworthy AI solutions in the field of law enforcement. 
 
 ## Format
 
