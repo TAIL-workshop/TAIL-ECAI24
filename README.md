@@ -54,6 +54,9 @@ We aim at selecting extended and revised versions of accepted papers to appear i
 - Jonas Hansson, Police Academy, Umeå University, Sweden
 - Chiara Gallese, Department of Law, University of Torino, Italy
 
+## Program Committee
+- TBA
+
 ## Contact
 
 Please direct any questions regarding the workshop to: 
