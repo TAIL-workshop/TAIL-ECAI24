@@ -16,7 +16,7 @@ This workshop aims to bring together researchers to discuss initiatives that add
 - **Workshop Date**: October 19 or 20, 2024 (TBA)
 
 ## Submission
-- **[Paper submission (TBA)](https://easychair.org/)**
+- **[Paper submission (TBA)]()**
 
 Stay tuned for updates on the submission process.
 
