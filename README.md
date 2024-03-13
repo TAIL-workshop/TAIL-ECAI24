@@ -2,10 +2,13 @@
 
 # Workshop on Trustworthy AI in Law Enforcement (TAIL) 
 
+This workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
+
 ## Venue
 - 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE
 - 19-24 OCTOBER 2024
 - Santiago de Compostela
+- Registration and information: [https://www.ecai2024.eu/](https://www.ecai2024.eu/)
 
 ## Important Dates
 - **Submission Deadline**: June 1, 2024
@@ -22,8 +25,6 @@ Stay tuned for updates on the submission process.
 Following seminal and recent work in the integration of Artificial Intelligence (AI) in law enforcement and digital forensics, such as work on automated evidence analysis, predictive policing, and automated bias-neutralisation in digital investigations, there is a growing interest in developing AI methods, theories, and tools tailored for law enforcement and criminal investigations. This has sparked initiatives such as the research network DigForASP (Digital forensics: evidence analysis via intelligent systems and practices). This workshop adopts a socio-technical perspective on integrating AI methods across diverse stages in public safety and criminal justice processes. From preventive measures and educational efforts to operational support during law enforcement activities and post-incident digital forensics, the workshop engages in discussions encompassing theoretical, methodological, and technological approaches for such systems. As awareness grows regarding the demand for Trustworthy AI in intelligent systems, factors like transparency, accountability, human agency, and bias mitigation in AI technology are gaining increased importance. This workshop is dedicated to fostering discussions on advancements for the responsible integration of AI in law enforcement and criminal investigations.
 
 Keywords: Trustworthy AI, Socio-Technical Systems, Law Enforcement, Criminal Investigations.
-
-This workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
 
 ## Topics of Interest
 - **Predictive Policing:** Strategies for proactive crime prediction and prevention in law enforcement, and, e.g., integrating principles for fair and unbiased predictions.
