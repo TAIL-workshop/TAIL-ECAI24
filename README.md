@@ -48,3 +48,9 @@ We aim at selecting extended and revised versions of accepted papers to appear i
 - Stefania Costantini, University of L'Aquila, Italy
 - Jonas Hansson, Police Academy, Umeå University, Sweden
 - Chiara Gallese, Department of Law, University of Torino, Italy
+
+## Contact
+
+Please direct any questions regarding the workshop to: 
+- Juan Carlos Nieves, Umeå University, Sweden, jcnieves@cs.umu.se
+- Andreas Brännström, Umeå University, Sweden, andreasb@cs.umu.se
