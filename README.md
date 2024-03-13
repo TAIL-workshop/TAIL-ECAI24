@@ -8,10 +8,9 @@
 - Santiago de Compostela
 
 ## Important Dates
-- **Call for Papers**: 00-00, 2024
-- **Submission Deadline**: 00-00, 2024
-- **Acceptance Notification**: 00-00, 2024
-- **Workshop Date**: 00-00, 2024
+- **Submission Deadline**: June 1, 2024
+- **Acceptance Notification**: July 5, 2024
+- **Workshop Date**: October 19 or 20, 2024 (TBA)
 
 ## Submission
 - **[Paper submission (TBA)](https://easychair.org/)**
