@@ -6,6 +6,11 @@
 - **Acceptance Notification**: 00-00, 2024
 - **Workshop Date**: 00-00, 2024
 
+## Submission
+- **[Submit Papers (coming soon)](https://easychair.org/)**
+
+Stay tuned for updates on the submission process.
+
 ## Description
 
 Following seminal and recent work in the integration of Artificial Intelligence (AI) in law enforcement and digital forensics, such as work on automated evidence analysis, predictive policing, and automated bias-neutralisation in digital investigations, there is a growing interest in developing AI methods, theories, and tools tailored for law enforcement and criminal investigations. This has sparked initiatives such as the research network DigForASP (Digital forensics: evidence analysis via intelligent systems and practices). This workshop adopts a socio-technical perspective on integrating AI methods across diverse stages in public safety and criminal justice processes. From preventive measures and educational efforts to operational support during law enforcement activities and post-incident digital forensics, the workshop engages in discussions encompassing theoretical, methodological, and technological approaches for such systems. As awareness grows regarding the demand for Trustworthy AI in intelligent systems, factors like transparency, accountability, human agency, and bias mitigation in AI technology are gaining increased importance. This workshop is dedicated to fostering discussions on advancements for the responsible integration of AI in law enforcement and criminal investigations.
