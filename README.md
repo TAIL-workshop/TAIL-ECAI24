@@ -48,7 +48,9 @@ This is a half-day workshop that will follow the classical format of presentatio
 
 Submissions of full scientific contributions (7 pages + 1 page for references), short position papers (5 pages + 1 page for references), and proposals of technical talks (1-page, including abstract and author biography) will be reviewed by the Program Committee using a single-blind reviewing process with no rebuttal phase.
 
-We aim at selecting extended and revised versions of accepted papers to appear in a special issue of an international journal provided that a sufficient amount of high quality papers is collected. Such papers will go through a second formal selection process to meet the high quality standard of the journal.
+## Proceedings
+
+Proceedings shall be submitted to [CEUR-WS.org](CEUR-WS.org) for online publication. We aim at selecting extended and revised versions of accepted papers to appear in a special issue of an international journal provided that a sufficient amount of high quality papers is collected. Such papers will go through a second formal selection process to meet the high quality standard of the journal.
 
 ## Organising Committee
 - Juan Carlos Nieves, Umeå University, Sweden
