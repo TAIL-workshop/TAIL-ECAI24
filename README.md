@@ -19,9 +19,9 @@ All deadlines are at the end of the day specified, anywhere on Earth (UTC-12).
 
 
 ## Submission
-- **[Paper submission (TBA)]()**
+- **[https://easychair.org/conferences/?conf=tail24](https://easychair.org/conferences/?conf=tail24)**
 
-Stay tuned for updates on the submission process.
+
 
 ## Description
 
