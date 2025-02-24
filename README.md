@@ -4,6 +4,8 @@
 
 This workshop aims to bring together researchers to discuss initiatives that address the integration of Trustworthy AI and Law Enforcement. We will invite theoretical, experimental and position papers.
 
+(!) <code>The workshop is cancelled</code>
+
 ## Venue
 - 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE
 - 19-24 OCTOBER 2024
